@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trindadej44
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning C language
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Java Language
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me @jadertms
 
